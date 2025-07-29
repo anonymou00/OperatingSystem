@@ -1,0 +1,8 @@
+tkinter==8.6
+requests==2.31.0
+psutil==5.9.5
+threading==3.11
+webbrowser==3.11
+subprocess==3.11
+datetime==5.2
+json==2.0.9
